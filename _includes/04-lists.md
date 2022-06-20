@@ -1,4 +1,4 @@
-#Food
-#Shelter
-#Peace
+# Food
+# Shelter
+# Peace
 
